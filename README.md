@@ -1,19 +1,19 @@
-### Hi, I'm Elliott Kennedy 👋
+### Hi there, I'm Elliott Kennedy 👋
+**Information Security Engineer & Enterprise IT Operations Specialist** | Savannah, GA
 
-**Information Security Engineer & Enterprise IT Operations Specialist** | Savannah, GA  
-B.S. in Cybersecurity (SNHU) • A.S. in Computer Information Systems • CompTIA Network+ & A+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![B.S. Cybersecurity](https://shields.io)](https://snhu.edu)
+[![CompTIA Network+](https://shields.io)](https://comptia.org)
+[![CompTIA A+](https://shields.io)](https://comptia.org)
 
----
-
-### Featured Security Projects
-* **[DVWA Automated Lab Security Scanner](../dvwa-auto-scanner)** — Python CLI automation for local web app assessments.
-* **[Linux SSH Authentication & Brute-Force Log Auditor](../ssh-log-auditor)** — Python CLI tool parsing SSH logs to flag brute-force activity and export SIEM reports.
-* **[HTTP Security Header & Server Banner Posture Auditor](../http-header-auditor)** — Python CLI tool grading web apps on header coverage and TLS posture.
-* **[Microsoft Sentinel KQL Threat-Hunting & Endpoint Compliance Pack](../sentinel-kql-hunting-pack)** — MITRE-mapped KQL detection rules and compliance audits.
+Enterprise IT & Information Security professional with **5+ years** of experience securing cloud identity infrastructure (**Microsoft Entra ID**, **RBAC**, **Intune**), hardening Linux/Windows environments, and automating vulnerability assessments & SIEM detections with **Python** and **KQL**.
 
 ---
 
-### Core Technical Stack
-* **Security & Vulnerability Management:** Nessus, Nmap, Nikto, SQLMap, Microsoft Sentinel (KQL), ISO 27001 & NIST RMF
-* **Identity & Cloud Infrastructure:** Microsoft Entra ID (Azure AD), Active Directory, RBAC, SSO/MFA, Intune
-* **Systems & Scripting:** Python, Bash, Linux/Ubuntu, Windows Server, TCP/IP, Firewalls, VPNs
+### 🛡️ Featured Security Engineering Projects
+
+* **[`entra-rbac-auditor`](https://github.com)** — Zero-dependency Python CLI policy-as-code auditor evaluating Microsoft Entra ID & RBAC JSON exports for privilege creep, MFA gaps, stale guests, and Conditional Access drift.
+* **[`sentinel-kql-hunting-pack`](https://github.com)** — MITRE ATT&CK-mapped Microsoft Sentinel KQL detection rules covering Entra ID sign-in anomalies, Intune compliance drift, and Linux SSH brute-force correlation.
+* **[`ssh-log-auditor`](https://github.com)** — Python CLI intrusion log analyzer parsing Linux `auth.log`, `secure`, and `journalctl` output to flag brute-force spikes and export SIEM-ready JSON reports.
+* **[`dvwa-auto-scanner`](https://github.com)** — Automated Python CLI vulnerability scanner orchestrating `Nmap`, `Nikto`, and `SQLMap` into repeatable local lab assessments.
+* **[`http-header-auditor`](https://github.com)** — Zero-dependency Python security header & TLS posture auditor grading HSTS, CSP, X-Frame-Options, and banner leakage.
