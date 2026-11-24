@@ -1,4 +1,4 @@
-### Hi there, I'm Elliott Kennedy 👋
+### Hi there, I'm Elliott Kennedy
 **Information Security Engineer & Enterprise IT Operations Specialist** | Savannah, GA
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
@@ -10,8 +10,9 @@ Enterprise IT & Information Security professional with **5+ years** of experienc
 
 ---
 
-### 🛡️ Featured Security Engineering Projects
+### Featured Security Engineering Projects
 
+* **[`vuln-triage-engine`](https://github.com)** — Zero-dependency Python CLI vulnerability management engine correlating Nessus CSV scan exports with CISA KEV, CVSS v3 scores, and asset criticality to assign remediation SLAs.
 * **[`entra-rbac-auditor`](https://github.com)** — Zero-dependency Python CLI policy-as-code auditor evaluating Microsoft Entra ID & RBAC JSON exports for privilege creep, MFA gaps, stale guests, and Conditional Access drift.
 * **[`sentinel-kql-hunting-pack`](https://github.com)** — MITRE ATT&CK-mapped Microsoft Sentinel KQL detection rules covering Entra ID sign-in anomalies, Intune compliance drift, and Linux SSH brute-force correlation.
 * **[`ssh-log-auditor`](https://github.com)** — Python CLI intrusion log analyzer parsing Linux `auth.log`, `secure`, and `journalctl` output to flag brute-force spikes and export SIEM-ready JSON reports.
