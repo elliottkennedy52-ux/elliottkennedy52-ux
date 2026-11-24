@@ -6,7 +6,7 @@
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-C8202F?style=flat)](https://www.comptia.org/)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-C8202F?style=flat)](https://www.comptia.org/)
 
-Enterprise IT & Information Security professional with **5+ years** of experience securing cloud identity infrastructure (**Microsoft Entra ID**, **RBAC**, **Intune**), hardening Linux/Windows environments, and automating vulnerability assessments & SIEM detections with **Python** and **KQL**.
+Enterprise IT & Information Security professional with **7+ years** of experience securing cloud identity infrastructure (**Microsoft Entra ID**, **RBAC**, **Intune**), hardening Linux/Windows environments, and automating vulnerability assessments & SIEM detections with **Python** and **KQL**.
 
 ---
 
