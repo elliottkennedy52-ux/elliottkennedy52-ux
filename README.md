@@ -1,10 +1,10 @@
 ### Hi there, I'm Elliott Kennedy
 **Information Security Engineer & Enterprise IT Operations Specialist** | Savannah, GA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://://linkedin.com)
-[![B.S. Cybersecurity](https://img.shields.io/badge/SNHU-B.S._Cybersecurity-003366?style=flat)](https://snhu.edu)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?style=flat)](https://comptia.org)
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=flat)](https://comptia.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://://linkedin.com)
+[![B.S. Cybersecurity](https://img.shields.io/badge/SNHU-B.S._Cybersecurity-003366?style=flat)](https://www.snhu.edu/)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-C8202F?style=flat)](https://www.comptia.org/)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A+-C8202F?style=flat)](https://www.comptia.org/)
 
 Enterprise IT & Information Security professional with **5+ years** of experience securing cloud identity infrastructure (**Microsoft Entra ID**, **RBAC**, **Intune**), hardening Linux/Windows environments, and automating vulnerability assessments & SIEM detections with **Python** and **KQL**.
 
